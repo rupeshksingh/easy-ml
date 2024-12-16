@@ -56,9 +56,9 @@ The Universal Machine Learning Prediction App is a powerful, user-friendly Strea
 
 ```bash
 
-git clone https://github.com/yourusername/universal-ml-app.git
+git clone https://github.com/rupeshksingh/easy-ml.git
 
-cd universal-ml-app
+cd easy-ml
 
 ```
 
@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - your.email@example.com
 
-Project Link: [https://github.com/yourusername/universal-ml-app](https://github.com/yourusername/universal-ml-app)
+Project Link: [https://github.com/rupeshksingh/easy-ml](https://github.com/rupeshksingh/easy-ml)
 
 ## 🙏 Acknowledgements
 
