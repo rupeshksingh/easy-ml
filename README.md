@@ -4,7 +4,7 @@
 
 The Universal Machine Learning Prediction App is a powerful, user-friendly Streamlit application designed to democratize machine learning model creation and evaluation. This tool allows users to upload CSV files, perform comprehensive data analysis, select problem types, preprocess data, choose machine learning models, and evaluate their performance - all through an intuitive web interface.
 
-![App Demo]([https://img.shields.io/badge/App-Demo-blue])(https://easy-ml-el2w4ohaltdlufuznfwovq.streamlit.app/)
+![App Demo]([https://img.shields.io/badge/App-Demo-blue]((https://easy-ml-el2w4ohaltdlufuznfwovq.streamlit.app/)))
 
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 
